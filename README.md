@@ -3,8 +3,8 @@
 Cubist is a comprehensive desktop application for solving and learning 3×3 Rubik's Cube puzzles. Built with Python and PySide6, it offers multiple solving algorithms, 3D visualization, and educational features.
 
 ## Developer’s Story
-When I started this project, I was 12 years old, during the 2020 COVID-19 pandemic. At that time, I was trying to solve a Rubik’s Cube, but I was never successful, which made me feel quite frustrated. Motivated by this challenge, I decided to develop a Rubik’s Cube solver. 
-I created the first version in 2020. Later, in 2025, I revisited the project, improved it significantly, and prepared it for public release.
+When I started this project, I was 13 years old, during the 2021 COVID-19 pandemic. At that time, I was trying to solve a Rubik’s Cube, but I was never successful, which made me feel quite frustrated. Motivated by this challenge, I decided to develop a Rubik’s Cube solver. 
+I created the first version in 2021. Later, in 2025, I revisited the project, improved it significantly, and prepared it for public release.
 
 ## by Adil Sevim :)
 
